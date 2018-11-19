@@ -11,8 +11,11 @@ Developed the responsive table component supporting into other frameworks like a
   - **Link options**
   - **Mutliple checkbox selection**
 
-## Output Format
-<p align='center'><img src="https://github.com/VelmuruganHCL/EsrimapComponent/blob/master/demo-esrimap.JPG"></p>
+## Output Format for Desktop view
+<p align='center'><img src="https://github.com/VelmuruganHCL/hcl-ers-edge-responsive-table/blob/master/hcl-ers-edge-responsive-table.JPG"></p>
+
+## Output Format for Mobile view
+<p align='center'><img src="https://github.com/VelmuruganHCL/hcl-ers-edge-responsive-table/blob/master/hcl-ers-edge-responsive-table-mobileview.JPG"></p>
 
 To preview demo of Esrimap-Component Project, [Click Here]()
 
@@ -48,4 +51,5 @@ This will create builds of your application in the `build/` directory, optimized
 ```html
 <core-grid-datatypes></core-grid-datatypes>
 ```
+3. Pass the parameter same as reference added in index html
 3. Include webloader script and jsargcis script as referred in index.html file.
